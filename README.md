@@ -18,6 +18,10 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
+```
+Developed by : SUDHIR KUMAR .R
+Register number : 212223230221 
+```
 ### TO CAPTURE A TREND
 ### 1.Line Chart
 ```python
